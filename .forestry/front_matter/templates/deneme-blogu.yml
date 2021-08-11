@@ -1,4 +1,10 @@
 ---
 label: Deneme Blogu
 hide_body: false
-fields: []
+fields:
+- name: deneme
+  type: text
+  config:
+    required: false
+  label: Deneme
+  description: deneme
