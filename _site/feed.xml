@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>East</title>
+    <description>Minimal and Clean Blog Jekyll Theme</description>
+    <link>http://east-jekyll.aspirethemes.com//</link>
+    <atom:link href="http://east-jekyll.aspirethemes.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 11 Aug 2021 11:27:55 +0300</pubDate>
+    <lastBuildDate>Wed, 11 Aug 2021 11:27:55 +0300</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+
+    
+
+    
+      
+        
+      
+    
+      
+        
+          <item>
+            <title>About</title>
+            <description>&lt;p&gt;This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyllrb.com&lt;/a&gt;&lt;/p&gt;
+</description>
+            <link>http://east-jekyll.aspirethemes.com//about.html</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+
+  </channel>
+</rss>
