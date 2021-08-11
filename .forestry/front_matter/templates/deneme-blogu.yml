@@ -8,3 +8,5 @@ fields:
     required: false
   label: Deneme
   description: deneme
+pages:
+- _posts/deneme.html
